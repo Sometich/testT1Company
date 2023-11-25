@@ -20,7 +20,9 @@ Spring boot 2+
 ![image](https://github.com/Sometich/testT1Company/assets/76786794/841909af-de8c-4962-accb-0ebb9283fae7)
 
 Что отправили: http://localhost:8080/frequency?input=AaaLLLLoopfg
+
 Что получили: 
+
 {
     "L": 4,
     "a": 2,
